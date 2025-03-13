@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Braian! 👋
-- 🌱 **Estudando** Java
+- 🌱 **Estudando**: Java
 -  🎯 **Objetivo**: Concluir a faculdade, evoluir como desenvolvedor e contribuir em projetos de forma criativa.  
 - 💼 **Freelance**: Aberto a projetos e parcerias!
 - ⚡ **Curiosidade**: Apaixonado por resolver problemas e transformar ideias em soluções.
